@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 65.5%;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+h1{
+   font-size: 3em;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    text-align: justify;
+    text-indent: 50px;
+}
